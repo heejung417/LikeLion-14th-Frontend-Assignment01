@@ -11,10 +11,20 @@ body{
     font-family: 'A2z'; 
     background-image: url(https://img.freepik.com/premium-vector/elegant-memphis-abstract-background_278222-6465.jpg);
     background-size: cover;
-    
+    text-align: center;
 }
 /* css조건 4번 만족 */
 
+div {
+    margin: 0 auto;
+}
 
+table {     
+    margin: 0 auto; 
+}
 
-
+ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
