@@ -1,0 +1,20 @@
+
+
+@font-face {
+    font-family: 'A2z';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/2601-6@1.0/에이투지체-3Light.woff2') format('woff2');
+    font-weight: 300;
+    font-display: swap;
+}
+/* css조건 5번 만족 */
+body{
+    font-family: 'A2z'; 
+    background-image: url(https://img.freepik.com/premium-vector/elegant-memphis-abstract-background_278222-6465.jpg);
+    background-size: cover;
+    
+}
+/* css조건 4번 만족 */
+
+
+
+
